@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>geoid_undulation</Description>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">50.940910339355</MDI>
+      <MDI key="STATISTICS_MEAN">45.189614993845</MDI>
+      <MDI key="STATISTICS_MINIMUM">39.787940979004</MDI>
+      <MDI key="STATISTICS_STDDEV">2.718675896501</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
